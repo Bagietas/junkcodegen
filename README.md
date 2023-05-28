@@ -8,3 +8,4 @@ Don't blame me for bad code :)
 
 If you want to build it you need siticone.ui.dll
 
+It just add .cpp files with junkcode to location (doesn't include to projeect)
